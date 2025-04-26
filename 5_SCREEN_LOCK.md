@@ -1,4 +1,4 @@
-# � Screen Lock and Timeouts
+# ��� Screen Lock and Timeouts
 
 ## Why Use a Screen Lock?
 
@@ -59,7 +59,7 @@ graph LR
     end
 
     subgraph Security Barrier
-        Lock[fa:fa-lock Screen Lock<br>(PIN, Pattern, Biometric)]
+        Lock["fa:fa-lock Screen Lock<br>(PIN, Pattern, Biometric)"]
     end
 
     Person[fa:fa-user-secret Unauthorized Person]
