@@ -31,6 +31,8 @@ Apple's iOS also has robust security measures:
 For users seeking even greater control over their privacy and security, alternative mobile operating systems exist. One notable example is **GrapheneOS**. It's a privacy and security-focused open-source project built on Android, designed to minimize tracking and enhance security features.
 
 *   **Note:** Switching operating systems is an advanced step and may change how you use your device.
-*   **Learn More:** [Placeholder: Link to GrapheneOS official website or a beginner-friendly explanation]
+*   **Learn More:** [GrapheneOS Official Website](https://grapheneos.org/)
 
 Remember, using the built-in security features of your device is a fundamental step in protecting your digital life!
+---
+[Next: Conclusion](7_CONCLUSION.md)

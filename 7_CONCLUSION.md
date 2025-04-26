@@ -26,9 +26,11 @@ Understanding these concepts is the first step. The real benefit comes from appl
 
 Want to learn more? Here are some resources to continue your journey:
 
-*   [Placeholder: Link to official Android Security Center/Tips]
-*   [Placeholder: Link to official Apple iOS Security Guide]
-*   [Placeholder: Link to a reputable privacy blog or organization (e.g., EFF, Consumer Reports)]
-*   [Placeholder: Link back to the Glossary created for these tutorials]
+*   [Official Android Safety Center](https://www.android.com/safety/)
+*   [Apple Platform Security Guide](https://support.apple.com/guide/security/welcome/web)
+*   [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
+*   [Glossary](8_GLOSSARY.md)
 
 Stay safe and secure online!
+---
+[Next: Glossary](8_GLOSSARY.md)

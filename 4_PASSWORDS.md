@@ -18,12 +18,34 @@ Creating and managing strong passwords is crucial:
 
 Securing your device itself is vital.
 
-*   **Android:** [Placeholder: Step-by-step guide on how to set a strong device password/PIN/pattern on Android.]
-*   **iOS:** [Placeholder: Step-by-step guide on how to set a strong device passcode on iOS.]
+*   **Android:** Setting a strong screen lock is easy. The exact steps might vary slightly depending on your phone manufacturer, but generally:
+    1.  Open your phone's **Settings** app.
+    2.  Tap on **Security & privacy**, **Lock screen**, or a similar option.
+    3.  Choose **Screen lock**. You might need to enter your current lock method if you have one.
+    4.  Select the type of lock you want:
+        *   **PIN:** Use a number sequence. Choose at least 6 digits for better security. Avoid simple sequences like `123456` or birthdays.
+        *   **Pattern:** Draw a pattern on a grid of dots. Make it complex, crossing lines multiple times. Avoid simple shapes like letters (L, Z).
+        *   **Password:** Use a mix of letters, numbers, and symbols (like you would for an online account). Make it long and unique.
+    5.  Follow the on-screen instructions to set and confirm your new lock method.
+    *Tip:* Many phones also offer fingerprint or face unlock for convenience, but you'll still need a PIN, pattern, or password as a backup. Always choose the strongest backup option you can easily remember.
+    *   **iOS:** Setting a strong passcode protects your iPhone or iPad:
+        1.  Open the **Settings** app.
+        2.  Tap **Face ID & Passcode** (or **Touch ID & Passcode** on older devices). You might need to enter your current passcode if one is set.
+        3.  Tap **Turn Passcode On** (if you don't have one) or **Change Passcode** (if you do).
+        4.  Before entering a new passcode, tap **Passcode Options**.
+        5.  Choose the type of passcode:
+            *   **Custom Alphanumeric Code:** Strongest option, uses letters, numbers, and symbols. Make it long and unique.
+            *   **Custom Numeric Code:** Use a number sequence longer than 6 digits. Avoid simple sequences or personal dates.
+            *   **6-Digit Numeric Code:** A good balance of security and convenience.
+            *   **4-Digit Numeric Code:** Least secure option, generally avoid.
+        6.  Enter your chosen passcode and verify it.
+        *Tip:* Face ID and Touch ID offer quick access, but your passcode is the essential backup. Always choose the strongest passcode option you can reliably remember.
 
 ## Check Your Password Strength!
 
-[Placeholder: Interactive password strength checker tool where learners input a password and receive feedback on its strength.]
+You can check the strength of your passwords using an online tool like the [1Password Password Checker](https://1password.com/password-generator/).
 
 ---
 *Next Up: Screen Lock and Timeouts*
+---
+[Next: Screen Lock](5_SCREEN_LOCK.md)

@@ -17,7 +17,56 @@ Keep these simple tips in mind:
 
 ## Test Your Knowledge!
 
-[Placeholder: Scenario-based quiz where learners identify secure vs. insecure practices (e.g., "Is it safe to leave your phone on a café table while you step away?")]
+### Physical Device Access Quiz
+
+**Instructions:** Read each scenario and choose the best answer regarding physical device security.
+
+**Question 1:**
+
+You are working on your laptop at a busy coffee shop and need to step away for a couple of minutes to use the restroom. What is the most secure action to take?
+
+*   A) Ask the person at the next table to keep an eye on your laptop.
+*   B) Quickly hide your laptop under your jacket on the chair.
+*   C) Leave the laptop on the table; you'll only be gone for a moment.
+*   D) Pack up your laptop and take it with you to the restroom.
+
+>! **Correct Answer:** D
+
+**Feedback:** Never leave your devices unattended in public spaces, even for a short time. Asking strangers poses a risk, and hiding it isn't foolproof. The only secure option is to keep your device with you. Treat it like your wallet!
+
+---
+
+**Question 2:**
+
+You are leaving your work desk to go to a lunch meeting in another part of the building. What should you do with your company-issued tablet?
+
+*   A) Leave it on your desk so you don't forget it later.
+*   B) Put it in your unlocked desk drawer.
+*   C) Secure it in a locked desk drawer or cabinet.
+*   D) Ask a nearby colleague to watch it while you're gone.
+
+**Correct Answer:** C
+
+**Feedback:** When leaving your device unattended, even within the office, store it in a secure location like a locked drawer. Leaving it exposed or relying on colleagues increases the risk of unauthorized access or theft.
+
+---
+
+**Question 3:**
+
+Why is preventing unauthorized *physical* access often called the "first line of defense" for device security?
+
+*   A) Because physical security threats are the most common.
+*   B) Because it's the easiest security measure to implement.
+*   C) Because if someone gains physical access, they might bypass digital security (like passwords if the device is unlocked) to access data or install malware.
+*   D) Because it looks good for security audits.
+
+**Correct Answer:** C
+
+**Feedback:** Gaining physical access to a device can allow an attacker to circumvent other security measures. They could potentially access unlocked data, install malicious software directly, or even attempt to break encryption or passwords with specialized tools if they steal the device.
+
+---
 
 ---
 *Next Up: Physical Network Access*
+---
+[Next: Physical Network Access](3_PHYSICAL_NETWORK_ACCESS.md)

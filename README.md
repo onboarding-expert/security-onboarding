@@ -8,16 +8,15 @@ This project provides a series of introductory tutorials designed to onboard use
 
 Follow the tutorials in order for the best learning experience:
 
-1.  [💡 Introduction to Cybersecurity and Privacy](introduction.md)
-2.  [📱 Physical Device Access](physical_device_access.md)
-3.  [🌐 Physical Network Access](physical_network_access.md)
-4.  [🔑 Passwords and Policies](passwords.md)
-5.  [🔒 Screen Lock and Timeouts](screen_lock.md)
-6.  [⚙️ Device-Specific Security Features](device_features.md)
-7.  [🏁 Conclusion and Next Steps](conclusion.md)
-8.  [📖 Glossary](glossary.md)
+1.  [💡 Introduction to Cybersecurity and Privacy](1_INTRODUCTION.md)
+2.  [📱 Physical Device Access](2_PHYSICAL_DEVICE_ACCESS.md)
+3.  [🌐 Physical Network Access](3_PHYSICAL_NETWORK_ACCESS.md)
+4.  [🔑 Passwords and Policies](4_PASSWORDS.md)
+5.  [🔒 Screen Lock and Timeouts](5_SCREEN_LOCK.md)
+6.  [⚙️ Device-Specific Security Features](6_DEVICE_FEATURES.md)
+7.  [🏁 Conclusion and Next Steps](7_CONCLUSION.md)
+8.  [📖 Glossary](8_GLOSSARY.md)
 
-*(Note: These tutorials currently contain placeholders for interactive elements, visual aids, and platform-specific instructions.)*
 
 ## 🧑‍💻 Target Audience
 

@@ -17,7 +17,27 @@ Follow these guidelines to stay safer online:
 
 ## Visualizing Secure vs. Insecure Networks
 
-[Placeholder: Diagram comparing secure (e.g., home Wi-Fi with password, VPN connection) vs. insecure (e.g., open public Wi-Fi) setups.]
+```mermaid
+graph TD
+    subgraph Secure Access [Secure Network Access ���]
+        direction LR
+        Device1[Your Device] -->|Password / Authentication| SNet(Home/Work Wi-Fi)
+        Device2[Your Device] -->|Encrypted Tunnel| VPN[VPN Service] --> Internet1[Internet]
+    end
+
+    subgraph Insecure Access [Insecure Network Access ⚠️]
+        direction LR
+        Device3[Your Device] -->|Open / No Password| PNet(Public Wi-Fi) -->|Data Exposed!| Internet2[Internet]
+    end
+
+    style SNet fill:#D5E8D4,stroke:#82B366
+    style VPN fill:#D5E8D4,stroke:#82B366
+    style PNet fill:#F8CECC,stroke:#B85450
+
+    Internet1 --- PNet
+```
 
 ---
 *Next Up: Passwords and Policies*
+---
+[Next: Passwords](4_PASSWORDS.md)
