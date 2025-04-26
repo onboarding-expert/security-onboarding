@@ -19,7 +19,7 @@ Follow these guidelines to stay safer online:
 
 ```mermaid
 graph TD
-    subgraph Secure Access [Secure Network Access ���]
+    subgraph Secure Access [Secure Network Access]
         direction LR
         Device1[Your Device] -->|Password / Authentication| SNet(Home/Work Wi-Fi)
         Device2[Your Device] -->|Encrypted Tunnel| VPN[VPN Service] --> Internet1[Internet]

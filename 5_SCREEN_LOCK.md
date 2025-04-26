@@ -1,4 +1,4 @@
-# ��� Screen Lock and Timeouts
+# 🔒 Screen Lock and Timeouts
 
 ## Why Use a Screen Lock?
 
@@ -26,7 +26,7 @@ Setting up a screen lock is straightforward. Here's where you'll find the settin
 
 *   **Android:** Setting up a screen lock and adjusting the timeout is usually done in the Settings app. While exact names might vary slightly by device manufacturer, the steps are generally:
 
-    1.  **Open the Settings app** (often looks like a gear icon ⚙️).
+    1.  **Open the Settings app** (often looks like a gear icon ������).
     2.  **Find Security Settings:** Scroll down and tap on **"Security"**, **"Lock screen & security"**, or **"Security & privacy"**.
     3.  **Set Screen Lock:**
         *   Tap on **"Screen lock"** or **"Screen lock type"**.
